@@ -1,31 +1,37 @@
 <h1 align="center">👨‍💻 Lucas Belisario</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Focado em soluções escaláveis e automação
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automation+%26+AI+Specialist;Building+Scalable+Systems;Open+to+Work+Worldwide" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasBelisario">
-    <img src="https://img.shields.io/github/followers/seuusuario?label=Seguidores&style=social" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Brazil-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <a href="mailto:lucas.b.elisario1994@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red" />
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/LucasBelisario">
+    <img src="https://img.shields.io/github/followers/LucasBelisario?label=Seguidores&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-💡 Desenvolvedor Full Stack com foco em criação de aplicações modernas, automação e soluções digitais eficientes.
+💡 Full Stack Developer focused on building modern applications, automation and scalable digital solutions.
 
-📍 Brasil - Rondônia  
-🎯 Objetivo: Trabalhar com empresas internacionais e projetos escaláveis  
-🔥 Interesse em: IA, SaaS, Automação e Marketing Digital  
+📍 Brazil - Rondônia  
+🌎 Open to international opportunities  
+🔥 Interests: AI, SaaS, Automation & Digital Marketing  
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -35,43 +41,57 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasBelisario&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasBelisario&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasBelisario&show_icons=true&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasBelisario&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBelisario&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🏆 Highlights
 
-🔹 **Sistema de Automação com IA**  
-→ Automação de tarefas com inteligência artificial
-
-🔹 **Landing Pages de Alta Conversão**  
-→ Foco em marketing digital e geração de leads
-
-🔹 **Plataforma SaaS**  
-→ Sistema escalável com autenticação e dashboard
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-In%20Progress-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-SaaS-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialty-Automation-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📈 Objetivos atuais
+## 🚀 Featured Projects
 
-✔ Conseguir oportunidades internacionais  
-✔ Desenvolver produtos próprios (SaaS)  
-✔ Aprimorar habilidades em IA e automação  
+🔹 **AI Automation System**  
+→ Task automation using artificial intelligence  
+
+🔹 **High-Converting Landing Pages**  
+→ Focused on lead generation and marketing  
+
+🔹 **SaaS Platform**  
+→ Scalable system with authentication and dashboard  
 
 ---
 
-## 📬 Contato
+## 📈 Current Goals
+
+✔ Get international remote opportunities  
+✔ Build my own SaaS products  
+✔ Improve skills in AI & automation  
+
+---
+
+## 📬 Contact
+
+📧 lucas.b.elisario1994@hotmail.com  
 📞 +55(69)99941-3853
-📧 Email: lucas.b.elisario1994@hotmail.com
-💼 LinkedIn: https://linkedin.com/in/lucas-belisario
-
 ---
 
 <p align="center">
-  🚀 Construindo hoje o futuro que quero viver amanhã!
+🔥 Discipline builds the level that talent cannot sustain.
 </p>
