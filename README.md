@@ -1,25 +1,8 @@
 <h1 align="center">👨‍💻 Lucas Belisario</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automation+%26+AI+Specialist;Building+Scalable+Systems;Open+to+Work+Worldwide" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Brazil-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-orange?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <a href="mailto:lucas.b.elisario1994@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/LucasBelisario">
-    <img src="https://img.shields.io/github/followers/LucasBelisario?label=Seguidores&style=for-the-badge" />
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -35,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,nextjs,bootstrap,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,ts,react,nodejs,git,github,nextjs,bootstrap,tailwind" />
 
 </div>
 
@@ -88,10 +71,24 @@
 
 ## 📬 Contact
 
-📧 lucas.b.elisario1994@hotmail.com  
-📞 +55(69)99941-3853
+
+
+
+
+<p align="center">
+  <a href="mailto:lucas.b.elisario1994@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://wa.me/5569999413853">
+    <img src="https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
 ---
 
 <p align="center">
-🔥 Discipline builds the level that talent cannot sustain.
+🔥 “Discipline builds the level that talent cannot sustain.”
 </p>
